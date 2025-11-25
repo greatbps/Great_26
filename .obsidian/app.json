@@ -1,3 +1,7 @@
 {
-  "promptDelete": false
+  "promptDelete": false,
+  "spellcheck": false,
+  "showLineNumber": true,
+  "newFileLocation": "current",
+  "attachmentFolderPath": "./attachments"
 }
