@@ -1,0 +1,11 @@
+{
+  "google-calendar:create-google-calendar-event": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "E"
+    }
+  ]
+}

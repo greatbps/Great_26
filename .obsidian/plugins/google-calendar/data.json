@@ -1,6 +1,6 @@
 {
-  "googleClientId": "1054255155162-utg3j722lijqvrlausgccsl22off0r3i.apps.googleusercontent.com",
-  "googleClientSecret": "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",
+  "googleClientId": "1041986783242-akpb92alaq40oc6bghu6vu7t1p5u12m2.apps.googleusercontent.com",
+  "googleClientSecret": "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",
   "googleRefreshToken": "",
   "useCustomClient": true,
   "googleOAuthServer": "https://obsidian-google-calendar.vercel.app",
@@ -9,9 +9,7 @@
   "showNotice": true,
   "autoCreateEventNotes": true,
   "autoCreateEventNotesMarker": "obsidian",
-  "ignorePatternList": [
-    ""
-  ],
+  "ignorePatternList": [],
   "autoCreateEventKeepOpen": false,
   "importStartOffset": 1,
   "importEndOffset": 1,
@@ -24,7 +22,7 @@
   "defaultTemplate": "",
   "activateDailyNoteAddon": true,
   "dailyNoteDotColor": "#6aa1d8",
-  "useWeeklyNotes": false,
+  "useWeeklyNotes": true,
   "debugMode": false,
   "timelineHourFormat": 0,
   "atAnnotationEnabled": true,
