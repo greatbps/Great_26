@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01_Daily/2025-12-16.md",
+                "file": "99_Templates/daily_note.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-12-16"
+              "title": "daily_note"
             }
           }
         ]
@@ -186,8 +186,8 @@
   },
   "active": "9dec3e3d1f5e5319",
   "lastOpenFiles": [
-    "01_Daily/2025-12-15.md",
     "01_Daily/2025-12-16.md",
+    "01_Daily/2025-12-15.md",
     "99_Templates/daily_note.md",
     "01_Daily/2025-12-13.md",
     "01_Daily/2025-12-12.md",
