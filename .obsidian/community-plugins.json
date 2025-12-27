@@ -1,8 +1,5 @@
 [
   "templater-obsidian",
   "quickadd",
-  "dataview",
-  "obsidian-tasks-plugin",
-  "buttons",
-  "google-calendar"
+  "dataview"
 ]
