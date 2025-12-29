@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "8d71b7b5b2bf6d56",
+            "id": "7f119a437fada771",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -191,8 +191,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "8d71b7b5b2bf6d56",
+  "active": "7f119a437fada771",
   "lastOpenFiles": [
+    "무제.md",
     "03_Areas/031_Trading & Automation System/거래 분석(12.28).md",
     "index.html",
     "w.html",
@@ -228,7 +229,6 @@
     "01_Daily/2025-12-09.md",
     "04_Resources/daily_safe.md",
     "04_Resources/daily_note_final.md",
-    "04_Resources/daily_note_template_fixed.md",
-    "03_Areas/033_Study & Research/0331_자주 이기는 제안서/Chapter 2 수주영업.md"
+    "04_Resources/daily_note_template_fixed.md"
   ]
 }
