@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "2e7591740dbece3b",
+        "id": "3ca6eeb6403f8869",
         "type": "tabs",
         "children": [
           {
-            "id": "de6d0bcbb0a5a068",
+            "id": "f295e3073b224926",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02_Projects/Personal/대한항공/사전미팅 준비사항.md",
+                "file": "02_Projects/Work/공군 자원분석 모델/공군 자원분석 모델.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "사전미팅 준비사항"
+              "title": "공군 자원분석 모델"
             }
           }
         ]
@@ -44,7 +44,7 @@
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
-              "title": "Files"
+              "title": "파일 탐색기"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02_Projects/Personal/대한항공/사전미팅 준비사항.md",
+                "file": "02_Projects/Work/정보작전 모의모델/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 사전미팅 준비사항"
+              "title": "Outgoing links from Untitled"
             }
           },
           {
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02_Projects/Personal/대한항공/사전미팅 준비사항.md",
+                "file": "02_Projects/Work/정보작전 모의모델/Untitled.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 사전미팅 준비사항"
+              "title": "Outline of Untitled"
             }
           },
           {
@@ -184,46 +184,51 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "bases:Create new base": false,
+      "switcher:빠른 전환기 열기": false,
+      "graph:그래프 뷰 열기": false,
+      "canvas:새 캔버스 만들기": false,
+      "daily-notes:오늘의 일일 노트 열기": false,
+      "templates:템플릿 삽입": false,
+      "command-palette:명령어 팔레트 열기": false,
+      "bases:새 베이스 생성하기": false,
       "templater-obsidian:Templater": false,
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "289e9eb8b7a5792c",
+  "active": "f295e3073b224926",
   "lastOpenFiles": [
+    "02_Projects/Work/육군 교육용 상용드론 구매사업/육군 교육용 상용드론 구매사업.md",
+    "02_Projects/Work/공군 자원분석 모델/공군 자원분석 모델.md",
+    "02_Projects/Work/정보작전 모의모델/정보작전 모의모델.md",
+    "02_Projects/Work/참고자료/세부업무분야.pdf",
+    "02_Projects/Work/참고자료/26년 정보화 사업.docx",
+    "02_Projects/Work/참고자료/세션 1~5/(세션5) 정보통신기획평가원_2026년도 국방 AI 소요 브리핑(정보통신기획평가원 국방사업팀 이세연 팀장).pdf",
+    "02_Projects/Work/참고자료/세션 1~5/(세션4) 중소기업벤처부_국방 혁신 스타트업 지원사업 소개(창업진흥원 민관협력실 강은지 대리).pdf",
+    "02_Projects/Work/참고자료/세션 1~5/(세션3) 산업통상부_AI방산 추진전략(산업통상부 첨단민관혁신지원과 김선혜 과장)(한국산업기술기획평가원 조선방산항공실 박진용 책임).pdf",
+    "02_Projects/Work/참고자료/세션 1~5/(세션2) 국방부_국방-ICT 협업 중장기 발전 실행전략(국방부 국방연구개발총괄과 김솔뫼 서기관)(정보통신기획평가원 국방보안전략팀 조경욱 팀장).pdf",
+    "02_Projects/Work/참고자료/세션 1~5/(세션1) 국방부_국방 AX 전략(국방부 인공지능정책팀 채연호 팀장).pdf",
+    "02_Projects/Work/참고자료/세션 1~5",
+    "02_Projects/Work/참고자료/국직부대 주요 사업.pdf",
+    "02_Projects/Work/참고자료/해병대사령부 - 2026년 발주계획.xlsx",
+    "02_Projects/Work/해군 교전급 분석 모델/해군 교전급 분석 모델.md",
+    "01_Daily/1장.md",
+    "02_Projects/Work/정보작전 모의모델/Untitled.md",
     "02_Projects/Personal/대한항공/사전미팅 준비사항.md",
-    "02_Projects/Work",
-    "02_Projects/Personal/대한항공",
     "README.md",
     "02_Projects/Personal/20억 만들기/침체 확률 모델.md",
     "02_Projects/Personal/20억 만들기/경기침체 입체 분석.md",
     "02_Projects/Personal/20억 만들기/무제 1.md",
     "02_Projects/Personal/20억 만들기/무제.md",
-    "02_Projects/Work/무제",
     "02_Projects/Personal/20억 만들기/attachments/Pasted image 20260111070258.png",
-    "02_Projects/Personal/20억 만들기/무제",
     "02_Projects/Personal/20억 만들기/attachments/Pasted image 20260111065730.png",
     "02_Projects/Personal/20억 만들기/attachments/Pasted image 20260111065724.png",
     "02_Projects/Personal/20억 만들기/attachments/Pasted image 20260111065715.png",
     "02_Projects/Personal/20억 만들기/attachments/Pasted image 20260111065706.png",
-    "02_Projects/Personal/20억 만들기/attachments",
-    "02_Projects/Personal/20억 만들기",
     "03_Areas/031_Trading & Automation System/거래 분석(12.28).md",
-    "index.html",
-    "w.html",
     "01_Daily/Daily 활용법.md",
-    "01_Daily/1장.md",
-    "Reading/머니트렌드 2026",
     "01_Daily/사명 및 비전.md",
     "99_Templates/daily_note.md",
     "03_Areas/033_Study & Research/0332_나는 바닥에서 잡아/나는 바닥에서 잡아 Part 01.md",
-    "03_Areas/033_Study & Research/0332_나는 바닥에서 잡아/원펀치매매0.875의비밀 2권_나는바닥에서잡아.pdf",
     "01_Daily/2025-12-16.md",
     "01_Daily/2025-12-15.md",
     "01_Daily/2025-12-13.md",
@@ -232,11 +237,6 @@
     "Reading/자주 이기는 제안서 - 2025-12-10.md",
     "99_Templates/Reading Note Template.md",
     "99_Templates/auto_daily_core.md.md",
-    "01_Daily/Note.md",
-    "scripts/addCalendarEvent.js.md",
-    "01_Daily/2025-12-11.md",
-    "03_Areas/033_Study & Research/0331_자주 이기는 제안서/Chapter4 제안서 기획.md",
-    "03_Areas/033_Study & Research/0331_자주 이기는 제안서/Chapter3 제안서 전략.md",
-    "99_Templates/obsidian_daily_template (1).md"
+    "01_Daily/Note.md"
   ]
 }
