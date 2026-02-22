@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "3ca6eeb6403f8869",
+        "id": "d6d1c70c79c5ef7a",
         "type": "tabs",
         "children": [
           {
-            "id": "f295e3073b224926",
+            "id": "e67ba30115021b1f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02_Projects/Work/육군 교육용 상용드론 구매사업/육군 교육용 상용드론 구매사업.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "육군 교육용 상용드론 구매사업"
+              "title": "새 탭"
             }
           }
         ]
@@ -113,12 +109,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02_Projects/Work/정보작전 모의모델/Untitled.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Untitled"
+              "title": "README 의 나가는 링크"
             }
           },
           {
@@ -133,7 +129,7 @@
                 "searchQuery": ""
               },
               "icon": "lucide-tags",
-              "title": "Tags"
+              "title": "태그"
             }
           },
           {
@@ -147,7 +143,7 @@
                 "searchQuery": ""
               },
               "icon": "lucide-archive",
-              "title": "All properties"
+              "title": "모든 속성"
             }
           },
           {
@@ -156,17 +152,17 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02_Projects/Work/정보작전 모의모델/Untitled.md",
+                "file": "README.md",
                 "followCursor": false,
-                "showSearch": true,
+                "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Untitled"
+              "title": "README 의 개요"
             }
           },
           {
-            "id": "c7345812ec34fc21",
+            "id": "c6ddf8364a889b21",
             "type": "leaf",
             "state": {
               "type": "git-view",
@@ -184,6 +180,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "print:Print note": false,
       "switcher:빠른 전환기 열기": false,
       "graph:그래프 뷰 열기": false,
       "canvas:새 캔버스 만들기": false,
@@ -195,25 +192,26 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f295e3073b224926",
+  "active": "c6ddf8364a889b21",
   "lastOpenFiles": [
-    "02_Projects/Work/공군 자원분석 모델/공군 자원분석 모델.md",
-    "02_Projects/Work/육군 교육용 상용드론 구매사업/육군 교육용 상용드론 구매사업.md",
-    "02_Projects/Work/정보작전 모의모델/정보작전 모의모델.md",
-    "02_Projects/Work/참고자료/세부업무분야.pdf",
-    "02_Projects/Work/참고자료/26년 정보화 사업.docx",
+    "conflict-files-obsidian-git.md",
+    "02_Projects/Work/해군 교전급 분석 모델/해군 교전급 분석 모델.md",
+    "02_Projects/Work/해군 교전급 분석 모델",
+    "02_Projects/Work/참고자료/해병대사령부 - 2026년 발주계획.xlsx",
     "02_Projects/Work/참고자료/세션 1~5/(세션5) 정보통신기획평가원_2026년도 국방 AI 소요 브리핑(정보통신기획평가원 국방사업팀 이세연 팀장).pdf",
     "02_Projects/Work/참고자료/세션 1~5/(세션4) 중소기업벤처부_국방 혁신 스타트업 지원사업 소개(창업진흥원 민관협력실 강은지 대리).pdf",
     "02_Projects/Work/참고자료/세션 1~5/(세션3) 산업통상부_AI방산 추진전략(산업통상부 첨단민관혁신지원과 김선혜 과장)(한국산업기술기획평가원 조선방산항공실 박진용 책임).pdf",
     "02_Projects/Work/참고자료/세션 1~5/(세션2) 국방부_국방-ICT 협업 중장기 발전 실행전략(국방부 국방연구개발총괄과 김솔뫼 서기관)(정보통신기획평가원 국방보안전략팀 조경욱 팀장).pdf",
     "02_Projects/Work/참고자료/세션 1~5/(세션1) 국방부_국방 AX 전략(국방부 인공지능정책팀 채연호 팀장).pdf",
     "02_Projects/Work/참고자료/세션 1~5",
+    "02_Projects/Work/참고자료/세부업무분야.pdf",
     "02_Projects/Work/참고자료/국직부대 주요 사업.pdf",
-    "02_Projects/Work/참고자료/해병대사령부 - 2026년 발주계획.xlsx",
-    "02_Projects/Work/해군 교전급 분석 모델/해군 교전급 분석 모델.md",
-    "01_Daily/1장.md",
-    "02_Projects/Work/정보작전 모의모델/Untitled.md",
+    "02_Projects/Work/정보작전 모의모델/정보작전 모의모델.md",
+    "02_Projects/Work/육군 교육용 상용드론 구매사업/육군 교육용 상용드론 구매사업.md",
+    "02_Projects/Work/공군 자원분석 모델/공군 자원분석 모델.md",
     "02_Projects/Personal/대한항공/사전미팅 준비사항.md",
+    "대한항공/사전미팅 준비사항.md",
+    "03_Areas/26년 Plan/세운.md",
     "README.md",
     "02_Projects/Personal/20억 만들기/침체 확률 모델.md",
     "02_Projects/Personal/20억 만들기/경기침체 입체 분석.md",
@@ -226,6 +224,7 @@
     "02_Projects/Personal/20억 만들기/attachments/Pasted image 20260111065706.png",
     "03_Areas/031_Trading & Automation System/거래 분석(12.28).md",
     "01_Daily/Daily 활용법.md",
+    "01_Daily/1장.md",
     "01_Daily/사명 및 비전.md",
     "99_Templates/daily_note.md",
     "03_Areas/033_Study & Research/0332_나는 바닥에서 잡아/나는 바닥에서 잡아 Part 01.md",
@@ -236,7 +235,6 @@
     "04_Resources/SNSShareScrShot.jpg",
     "Reading/자주 이기는 제안서 - 2025-12-10.md",
     "99_Templates/Reading Note Template.md",
-    "99_Templates/auto_daily_core.md.md",
-    "01_Daily/Note.md"
+    "99_Templates/auto_daily_core.md.md"
   ]
 }
