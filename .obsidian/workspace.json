@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "3ca6eeb6403f8869",
+        "id": "52a6be7ee08f4dfc",
         "type": "tabs",
         "children": [
           {
-            "id": "f295e3073b224926",
+            "id": "22838123aaba33b7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02_Projects/Work/정보작전 모의모델/정보작전 모의모델.md",
+                "file": "01_Daily/사명 및 비전.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "정보작전 모의모델"
+              "title": "사명 및 비전"
             }
           }
         ]
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02_Projects/Work/정보작전 모의모델/Untitled.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Untitled"
+              "title": "README 의 나가는 링크"
             }
           },
           {
@@ -133,7 +133,7 @@
                 "searchQuery": ""
               },
               "icon": "lucide-tags",
-              "title": "Tags"
+              "title": "태그"
             }
           },
           {
@@ -147,7 +147,7 @@
                 "searchQuery": ""
               },
               "icon": "lucide-archive",
-              "title": "All properties"
+              "title": "모든 속성"
             }
           },
           {
@@ -156,17 +156,17 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02_Projects/Work/정보작전 모의모델/Untitled.md",
+                "file": "README.md",
                 "followCursor": false,
-                "showSearch": true,
+                "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Untitled"
+              "title": "README 의 개요"
             }
           },
           {
-            "id": "c7345812ec34fc21",
+            "id": "c6ddf8364a889b21",
             "type": "leaf",
             "state": {
               "type": "git-view",
@@ -184,6 +184,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "print:Print note": false,
       "switcher:빠른 전환기 열기": false,
       "graph:그래프 뷰 열기": false,
       "canvas:새 캔버스 만들기": false,
@@ -192,52 +193,53 @@
       "command-palette:명령어 팔레트 열기": false,
       "bases:새 베이스 생성하기": false,
       "templater-obsidian:Templater": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "terminal:Open terminal": false
     }
   },
-  "active": "c7345812ec34fc21",
+  "active": "22838123aaba33b7",
   "lastOpenFiles": [
-    "무제.md",
-    "02_Projects/Work/정보작전 모의모델/정보작전 모의모델.md",
-    "02_Projects/Work/육군 교육용 상용드론 구매사업/육군 교육용 상용드론 구매사업.md",
-    "02_Projects/Work/공군 자원분석 모델/공군 자원분석 모델.md",
-    "02_Projects/Work/참고자료/세부업무분야.pdf",
-    "02_Projects/Work/참고자료/26년 정보화 사업.docx",
-    "02_Projects/Work/참고자료/세션 1~5/(세션5) 정보통신기획평가원_2026년도 국방 AI 소요 브리핑(정보통신기획평가원 국방사업팀 이세연 팀장).pdf",
-    "02_Projects/Work/참고자료/세션 1~5/(세션4) 중소기업벤처부_국방 혁신 스타트업 지원사업 소개(창업진흥원 민관협력실 강은지 대리).pdf",
-    "02_Projects/Work/참고자료/세션 1~5/(세션3) 산업통상부_AI방산 추진전략(산업통상부 첨단민관혁신지원과 김선혜 과장)(한국산업기술기획평가원 조선방산항공실 박진용 책임).pdf",
-    "02_Projects/Work/참고자료/세션 1~5/(세션2) 국방부_국방-ICT 협업 중장기 발전 실행전략(국방부 국방연구개발총괄과 김솔뫼 서기관)(정보통신기획평가원 국방보안전략팀 조경욱 팀장).pdf",
-    "02_Projects/Work/참고자료/세션 1~5/(세션1) 국방부_국방 AX 전략(국방부 인공지능정책팀 채연호 팀장).pdf",
-    "02_Projects/Work/참고자료/세션 1~5",
-    "02_Projects/Work/참고자료/국직부대 주요 사업.pdf",
-    "02_Projects/Work/참고자료/해병대사령부 - 2026년 발주계획.xlsx",
-    "02_Projects/Work/해군 교전급 분석 모델/해군 교전급 분석 모델.md",
     "01_Daily/1장.md",
-    "02_Projects/Work/정보작전 모의모델/Untitled.md",
-    "02_Projects/Personal/대한항공/사전미팅 준비사항.md",
-    "README.md",
-    "02_Projects/Personal/20억 만들기/침체 확률 모델.md",
-    "02_Projects/Personal/20억 만들기/경기침체 입체 분석.md",
-    "02_Projects/Personal/20억 만들기/무제 1.md",
-    "02_Projects/Personal/20억 만들기/무제.md",
+    "00_INBOX/INBOX 활용법.md",
+    "00_INBOX/테크 & AI/노션 2025 최신 입문 가이드 3.md",
+    "00_INBOX/테크 & AI/노션 MCP 연동 게시판 만들기.md",
+    "00_INBOX/테크 & AI/노션 2025 최신 입문 가이드 2.md",
+    "00_INBOX/테크 & AI/노션 2025 최신 입문 가이드 1.md",
+    "00_INBOX/라이프 & 취미/“사유지 메타세쿼이아 숲 무료개방”.md",
+    "00_INBOX/라이프 & 취미/“3.2km 청단풍 터널 입장료 0원”.md",
+    "00_INBOX/건강/운동/체력과 근력을 미친듯 키워주는 '악마의 운동'.md",
+    "00_INBOX/건강/운동/2026년 매일 해야하는 스트레칭 4가지.md",
+    "00_INBOX/건강/운동/3탄) 고장난 몸 95% 해결하는 원초적 동작.md",
+    "00_INBOX/자산 & 경제/88억 부자가 말하는 AI 승자.md",
+    "00_INBOX/자산 & 경제/4000선 보인다 코스피 3700 돌파.md",
+    "00_INBOX/쇼핑 & 정보/홈플래닛 와이드 LED 스탠드.md",
+    "00_INBOX/자산 & 경제/월배당 ETF 끝판왕 (배당의만장).md",
+    "00_INBOX/자산 & 경제/NH IRP 계좌 투자 일지.md",
+    "00_INBOX/테크 & AI/혼자서 구축한 웹앱 성공 사례.md",
+    "00_INBOX/자기계발/무료 이력서 양식 다운로드.md",
+    "00_INBOX/자산 & 경제/Smart Range Zone 키움 이식.md",
+    "00_INBOX/라이프 & 취미/분당 3대 빵집으로 불리는 ‘앙토낭카렘’ 과연 맛있을까#성남맛집 #분당맛집 #분당맛집추천 .md",
+    "00_INBOX/자산 & 경제/ETF 하나로 100억 만들기.md",
+    "00_INBOX/자산 & 경제/커버드콜 기초 이론.md",
+    "00_INBOX/테크 & AI/제미나이 3 업무자동화 도구 제작.md",
+    "00_INBOX/테크 & AI/Claude Code GLM 4.5 사용법.md",
+    "00_INBOX/라이프 & 취미/턱걸이 30개 늘리는 풀업 루틴.md",
+    "00_INBOX/테크 & AI/AI 바이브코딩 SpecKit 가이드.md",
+    "00_INBOX/건강/운동",
+    "00_INBOX/건강",
+    "00_INBOX/쇼핑 & 정보",
+    "00_INBOX/테크 & AI",
+    "00_INBOX/자산 & 경제, 테크 & AI",
+    "00_INBOX/자기계발",
+    "00_INBOX/자산 & 경제",
+    "00_INBOX/라이프 & 취미",
+    "last_sync.txt",
+    "00_INBOX/Health",
     "02_Projects/Personal/20억 만들기/attachments/Pasted image 20260111070258.png",
     "02_Projects/Personal/20억 만들기/attachments/Pasted image 20260111065730.png",
     "02_Projects/Personal/20억 만들기/attachments/Pasted image 20260111065724.png",
     "02_Projects/Personal/20억 만들기/attachments/Pasted image 20260111065715.png",
     "02_Projects/Personal/20억 만들기/attachments/Pasted image 20260111065706.png",
-    "03_Areas/031_Trading & Automation System/거래 분석(12.28).md",
-    "01_Daily/Daily 활용법.md",
-    "01_Daily/사명 및 비전.md",
-    "99_Templates/daily_note.md",
-    "03_Areas/033_Study & Research/0332_나는 바닥에서 잡아/나는 바닥에서 잡아 Part 01.md",
-    "01_Daily/2025-12-16.md",
-    "01_Daily/2025-12-15.md",
-    "01_Daily/2025-12-13.md",
-    "01_Daily/2025-12-12.md",
-    "04_Resources/SNSShareScrShot.jpg",
-    "Reading/자주 이기는 제안서 - 2025-12-10.md",
-    "99_Templates/Reading Note Template.md",
-    "99_Templates/auto_daily_core.md.md",
-    "01_Daily/Note.md"
+    "04_Resources/SNSShareScrShot.jpg"
   ]
 }
