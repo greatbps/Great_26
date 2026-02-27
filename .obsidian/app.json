@@ -3,5 +3,6 @@
   "spellcheck": false,
   "showLineNumber": true,
   "newFileLocation": "current",
-  "attachmentFolderPath": "./attachments"
+  "attachmentFolderPath": "./attachments",
+  "alwaysUpdateLinks": true
 }
