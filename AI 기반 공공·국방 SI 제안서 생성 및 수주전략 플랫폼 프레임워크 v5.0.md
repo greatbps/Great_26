@@ -225,7 +225,7 @@ STEP 6.5 Win Probability Simulator
 
 ---
 
-# STEP 1.5 RTM Foundation
+# STEP 1.5 RTM(Requirements Traceability Matrix) Foundation
 
 ## 목적
 
@@ -515,7 +515,7 @@ Effect
 
 [Block: To-Be]
 
-[Block: USP]
+[Block: USP(Unique Selling Proposition)]
 
 [Block: Proof]
 
