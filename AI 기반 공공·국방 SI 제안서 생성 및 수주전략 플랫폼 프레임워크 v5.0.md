@@ -153,7 +153,7 @@ STEP 6.5 Win Probability Simulator
 
 ---
 
-### 정량평가 자가진단
+### 정량평가 자가진단(자료 입력 후 작성)
 
 - 경영상태
     
@@ -184,7 +184,7 @@ STEP 6.5 Win Probability Simulator
 
 #### Proof
 
-실적 및 증빙
+실적 및 증빙(자료 입력 후 작성)
 
 ---
 
@@ -192,6 +192,7 @@ STEP 6.5 Win Probability Simulator
 
 ## 목적
 
+SWOT 입력
 경쟁사 대비 우위 전략 확보
 
 ---
